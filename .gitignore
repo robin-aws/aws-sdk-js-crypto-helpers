@@ -21,3 +21,9 @@ coverage
 
 # Lerna
 /lerna-debug.log
+
+# verdaccio
+/verdaccio/storage
+
+# local npx cache
+/verdaccio/.npx
